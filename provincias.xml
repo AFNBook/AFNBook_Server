@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<spain>
+	<comunidad name="Andalucía">
+		<provincia>Almería</provincia>
+		<provincia>Cádiz</provincia>
+		<provincia>Córdoba</provincia>
+		<provincia>Granada</provincia>
+		<provincia>Huelva</provincia>
+		<provincia>Jaén</provincia>
+		<provincia>Málaga</provincia>
+		<provincia>Sevilla</provincia>
+	</comunidad>
+
+	<comunidad name="Aragón">
+		<provincia></provincia>
+	</comunidad>
+</spain>
