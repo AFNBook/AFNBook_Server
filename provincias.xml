@@ -1,17 +1,62 @@
 <?xml version="1.0"?>
 <spain>
 	<comunidad name="Andalucía">
-		<provincia>Almería</provincia>
-		<provincia>Cádiz</provincia>
-		<provincia>Córdoba</provincia>
-		<provincia>Granada</provincia>
-		<provincia>Huelva</provincia>
-		<provincia>Jaén</provincia>
-		<provincia>Málaga</provincia>
-		<provincia>Sevilla</provincia>
+		<image>http://afnbook.herokuapp.com/flags/andalucia.png</image>
+		<provincia>
+			<name>Almería</name>
+			<image>http://afnbook.herokuapp.com/flags/almeria.png</image>
+		</provincia>
+		<provincia>
+			<name>Cádiz</name>
+			<image>http://afnbook.herokuapp.com/flags/cadiz.png</image>
+		</provincia>
+		<provincia>
+			<name>Córdoba</name>
+			<image>http://afnbook.herokuapp.com/flags/cordoba.png</image>
+		</provincia>
+		<provincia>
+			<name>Granada</name>
+			<image>http://afnbook.herokuapp.com/flags/granada.png</image>
+		</provincia>
+		<provincia>
+			<name>Huelva</name>
+			<image>http://afnbook.herokuapp.com/flags/huelva.png</image>
+		</provincia>
+		<provincia>
+			<name>Jaén</name>
+			<image>http://afnbook.herokuapp.com/flags/jaen.png</image>
+		</provincia>
+		<provincia>
+			<name>Málaga</name>
+			<image>http://afnbook.herokuapp.com/flags/malaga.png</image>
+		</provincia>
+		<provincia>
+			<name>Sevilla</name>
+			<image>http://afnbook.herokuapp.com/flags/sevilla.png</image>
+		</provincia>
 	</comunidad>
 
 	<comunidad name="Aragón">
-		<provincia></provincia>
+		<image>http://afnbook.herokuapp.com/flags/aragon.png</image>
+		<provincia>
+			<name>Huesca</name>
+			<image>http://afnbook.herokuapp.com/flags/huesca.png</image>
+		</provincia>
+		<provincia>
+			<name>Teruel</name>
+			<image>http://afnbook.herokuapp.com/flags/teruel.png</image>
+		</provincia>
+		<provincia>
+			<name>Zaragoza</name>
+			<image>http://afnbook.herokuapp.com/flags/zaragoza.png</image>
+		</provincia>
+	</comunidad>
+
+	<comunidad name="Principado de Asturias">
+		<image>http://afnbook.herokuapp.com/flags/asturias.png</image>
+		<provincia>
+			<name>Asturias</name>
+			<image>http://afnbook.herokuapp.com/flags/asturias.png</image>
+		</provincia>
 	</comunidad>
 </spain>
