@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <spain>
 	<comunidad name="Andalucía">
-		<image>http://afnbook.herokuapp.com/flags/andalucia.png</image>
+		<image_comunidad>http://afnbook.herokuapp.com/flags/andalucia.png</image_comunidad>
 		<provincia>
 			<name>Almería</name>
 			<image>http://afnbook.herokuapp.com/flags/almeria.png</image>
@@ -37,7 +37,7 @@
 	</comunidad>
 
 	<comunidad name="Aragón">
-		<image>http://afnbook.herokuapp.com/flags/aragon.png</image>
+		<image_comunidad>http://afnbook.herokuapp.com/flags/aragon.png</image_comunidad>
 		<provincia>
 			<name>Huesca</name>
 			<image>http://afnbook.herokuapp.com/flags/huesca.png</image>
@@ -53,7 +53,7 @@
 	</comunidad>
 
 	<comunidad name="Principado de Asturias">
-		<image>http://afnbook.herokuapp.com/flags/asturias.png</image>
+		<image_comunidad>http://afnbook.herokuapp.com/flags/asturias.png</image_comunidad>
 		<provincia>
 			<name>Asturias</name>
 			<image>http://afnbook.herokuapp.com/flags/asturias.png</image>
