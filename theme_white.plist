@@ -5,20 +5,20 @@
 	<key>background</key>
 	<dict>
 		<key>color</key>
-		<string>#000000</string>
+		<string>#FFFFFF</string>
 	</dict>
 	<key>buttons</key>
 	<dict>
 		<key>background_color</key>
-		<string>#FFFFFF</string>
+		<string>#000000</string>
 		<key>font</key>
 		<dict>
 			<key>color</key>
-			<string>#00FF00</string>
+			<string>#0000BB</string>
 			<key>family</key>
-			<string>Helvetica-Bold</string>
+			<string>Helvetica</string>
 			<key>size</key>
-			<integer>20</integer>
+			<integer>25</integer>
 		</dict>
 	</dict>
 	<key>textview</key>
@@ -26,9 +26,9 @@
 		<key>font</key>
 		<dict>
 			<key>color</key>
-			<string>#FFFFFF</string>
+			<string>#000000</string>
 			<key>size</key>
-			<integer>18</integer>
+			<integer>20</integer>
 			<key>family</key>
 			<string>Helvetica-Light</string>
 		</dict>
