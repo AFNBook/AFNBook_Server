@@ -1,4 +1,5 @@
 <?php
-	$file = file_get_contents('./'.$_GET['file'], FILE_USE_INCLUDE_PATH);
-	print $file;
+   	//header("Content-type: ".$resul->tipo."\n");
+   	$fp=fopen($_GET['file'], "r");
+	fpassthru($fp);
 ?>
