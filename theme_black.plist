@@ -2,12 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>buttons</key>
+	<dict>
+		<key>font</key>
+		<dict>
+			<key>color</key>
+			<string>#FFFF00</string>
+			<key>family</key>
+			<string>Helvetica</string>
+			<key>size</key>
+			<integer>18</integer>
+		</dict>
+		<key>background_color</key>
+		<string>#FF00FF</string>
+	</dict>
 	<key>background</key>
 	<dict>
 		<key>color</key>
 		<string>#FF0000</string>
 	</dict>
-	<key>labels</key>
+	<key>textview</key>
 	<dict>
 		<key>color</key>
 		<string>#FFFFFF</string>

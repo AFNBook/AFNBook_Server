@@ -1,6 +1,5 @@
 <?php
-   	//header("Content-type: ".$resul->tipo."\n");
+   	header("Content-type: application/x-plist");
    	$fp=fopen($_GET['file'].'.plist', "r");
 	fpassthru($fp);
-	echo $_GET['file'];
 ?>
